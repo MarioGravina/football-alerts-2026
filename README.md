@@ -1,2 +1,2 @@
 # football-alerts-2026
-iOS Football Schedule for 2026 World Championship
+Independent iOS football schedule and reminder app for June–July 2026

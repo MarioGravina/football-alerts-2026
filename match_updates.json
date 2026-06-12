@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "lastUpdatedUTC": "2026-06-12T00:00:00Z",
+  "matches": [
+    {
+      "id": "M073",
+      "homeDisplayName": "TEST Home Team",
+      "awayDisplayName": "TEST Away Team",
+      "broadcaster": "FOX"
+    }
+  ]
+}

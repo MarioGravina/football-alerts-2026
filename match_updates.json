@@ -1,86 +1,46 @@
 {
-  "version": 3,
-  "lastUpdatedUTC": "2026-06-28T05:00:00Z",
+  "version": 4,
+  "lastUpdatedUTC": "2026-07-04T05:00:00Z",
   "matches": [
     {
-      "id": "M073",
-      "homeDisplayName": "South Africa",
-      "awayDisplayName": "Canada"
+      "id": "M089",
+      "homeDisplayName": "Paraguay",
+      "awayDisplayName": "France"
     },
     {
-      "id": "M074",
-      "homeDisplayName": "Germany",
-      "awayDisplayName": "Paraguay"
-    },
-    {
-      "id": "M075",
-      "homeDisplayName": "Netherlands",
+      "id": "M090",
+      "homeDisplayName": "Canada",
       "awayDisplayName": "Morocco"
     },
     {
-      "id": "M076",
+      "id": "M091",
       "homeDisplayName": "Brazil",
-      "awayDisplayName": "Japan"
-    },
-    {
-      "id": "M077",
-      "homeDisplayName": "France",
-      "awayDisplayName": "Sweden"
-    },
-    {
-      "id": "M078",
-      "homeDisplayName": "Côte d'Ivoire",
       "awayDisplayName": "Norway"
     },
     {
-      "id": "M079",
+      "id": "M092",
       "homeDisplayName": "Mexico",
-      "awayDisplayName": "Ecuador"
+      "awayDisplayName": "England"
     },
     {
-      "id": "M080",
-      "homeDisplayName": "England",
-      "awayDisplayName": "Congo DR"
-    },
-    {
-      "id": "M081",
-      "homeDisplayName": "USA",
-      "awayDisplayName": "Bosnia and Herzegovina"
-    },
-    {
-      "id": "M082",
-      "homeDisplayName": "Belgium",
-      "awayDisplayName": "Senegal"
-    },
-    {
-      "id": "M083",
-      "homeDisplayName": "Portugal",
-      "awayDisplayName": "Croatia"
-    },
-    {
-      "id": "M084",
+      "id": "M093",
       "homeDisplayName": "Spain",
-      "awayDisplayName": "Austria"
+      "awayDisplayName": "Portugal"
     },
     {
-      "id": "M085",
-      "homeDisplayName": "Switzerland",
-      "awayDisplayName": "Algeria"
+      "id": "M094",
+      "homeDisplayName": "United States",
+      "awayDisplayName": "Belgium"
     },
     {
-      "id": "M086",
+      "id": "M095",
       "homeDisplayName": "Argentina",
-      "awayDisplayName": "Cabo Verde"
-    },
-    {
-      "id": "M087",
-      "homeDisplayName": "Colombia",
-      "awayDisplayName": "Ghana"
-    },
-    {
-      "id": "M088",
-      "homeDisplayName": "Australia",
       "awayDisplayName": "Egypt"
+    },
+    {
+      "id": "M096",
+      "homeDisplayName": "Switzerland",
+      "awayDisplayName": "Colombia"
     }
   ]
 }

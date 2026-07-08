@@ -1,46 +1,26 @@
 {
-  "version": 4,
-  "lastUpdatedUTC": "2026-07-04T05:00:00Z",
+  "version": 5,
+  "lastUpdatedUTC": "2026-07-08T04:30:00Z",
   "matches": [
     {
-      "id": "M089",
-      "homeDisplayName": "Paraguay",
-      "awayDisplayName": "France"
-    },
-    {
-      "id": "M090",
-      "homeDisplayName": "Canada",
+      "id": "M097",
+      "homeDisplayName": "France",
       "awayDisplayName": "Morocco"
     },
     {
-      "id": "M091",
-      "homeDisplayName": "Brazil",
-      "awayDisplayName": "Norway"
-    },
-    {
-      "id": "M092",
-      "homeDisplayName": "Mexico",
-      "awayDisplayName": "England"
-    },
-    {
-      "id": "M093",
+      "id": "M098",
       "homeDisplayName": "Spain",
-      "awayDisplayName": "Portugal"
-    },
-    {
-      "id": "M094",
-      "homeDisplayName": "United States",
       "awayDisplayName": "Belgium"
     },
     {
-      "id": "M095",
-      "homeDisplayName": "Argentina",
-      "awayDisplayName": "Egypt"
+      "id": "M099",
+      "homeDisplayName": "Norway",
+      "awayDisplayName": "England"
     },
     {
-      "id": "M096",
-      "homeDisplayName": "Switzerland",
-      "awayDisplayName": "Colombia"
+      "id": "M100",
+      "homeDisplayName": "Argentina",
+      "awayDisplayName": "Switzerland"
     }
   ]
 }

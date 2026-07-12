@@ -1,26 +1,16 @@
 {
-  "version": 5,
-  "lastUpdatedUTC": "2026-07-08T04:30:00Z",
+  "version": 6,
+  "lastUpdatedUTC": "2026-07-12T13:00:00Z",
   "matches": [
     {
-      "id": "M097",
+      "id": "M101",
       "homeDisplayName": "France",
-      "awayDisplayName": "Morocco"
+      "awayDisplayName": "Spain"
     },
     {
-      "id": "M098",
-      "homeDisplayName": "Spain",
-      "awayDisplayName": "Belgium"
-    },
-    {
-      "id": "M099",
-      "homeDisplayName": "Norway",
-      "awayDisplayName": "England"
-    },
-    {
-      "id": "M100",
-      "homeDisplayName": "Argentina",
-      "awayDisplayName": "Switzerland"
+      "id": "M102",
+      "homeDisplayName": "England",
+      "awayDisplayName": "Argentina"
     }
   ]
 }

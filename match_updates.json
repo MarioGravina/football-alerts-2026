@@ -1,15 +1,15 @@
 {
-  "version": 6,
-  "lastUpdatedUTC": "2026-07-12T13:00:00Z",
+  "version": 7,
+  "lastUpdatedUTC": "2026-07-16T18:00:00Z",
   "matches": [
     {
-      "id": "M101",
+      "id": "M103",
       "homeDisplayName": "France",
-      "awayDisplayName": "Spain"
+      "awayDisplayName": "England"
     },
     {
-      "id": "M102",
-      "homeDisplayName": "England",
+      "id": "M104",
+      "homeDisplayName": "Spain",
       "awayDisplayName": "Argentina"
     }
   ]
